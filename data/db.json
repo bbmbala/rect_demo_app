@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01,2021 11:14:43 AM",
+      "body": "Study about SpringBoot"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "July 18,2023 3:36:28 PM",
+      "body": "Study about React js"
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "datetime": "July 11,2021 11:14:43 AM",
+      "body": "Study about Hibernate"
+    }
+  ]
+}
